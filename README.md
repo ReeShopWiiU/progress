@@ -1,6 +1,6 @@
 # ReeShop Progression to completion
 
-In here you can see how far we have progressed with reeshop.
+In here you can see how far we have progressed with reeShop.
 
 ## Front end
 

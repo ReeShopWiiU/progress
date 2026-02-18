@@ -14,7 +14,8 @@ In here you can see how far we have progressed with reeShop.
 
 ## SOAP/Download
 
-- [ ] Make ECS work properly (fix tickets)
+- [ ] Make ECS work properly
+- [x] Get Downloads to work
 - [ ] Get IAS and CAS working
 - [ ] Get unofficial titles working
 

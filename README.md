@@ -22,7 +22,7 @@ In here you can see how far we have progressed with reeShop.
 ## DB (DataBase)
 
 - [ ] Voting table for new content
-- [ ] Proper storing of games
+- [x] Proper storing of games
 - [ ] Proper cataloging
 
 ### Dictionary

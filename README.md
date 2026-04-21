@@ -9,6 +9,7 @@ In here you can see how far we have progressed with reeShop.
 - [ ] Have voting system
 - [ ] Proper Search
 - [ ] Get games loaded properly
+- [x] Connected titles and stuff to there own banner
 - [ ] Get DLC (maybe passes?) loaded properly
 - [ ] SpotPass???
 

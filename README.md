@@ -25,6 +25,8 @@ In here you can see how far we have progressed with reeShop.
 - [ ] Voting table for new content
 - [x] Proper storing of games
 - [ ] Proper cataloging
+- [ ] Add prices to every single game 
+
 
 ### Dictionary
 

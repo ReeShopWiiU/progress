@@ -16,7 +16,7 @@ In here you can see how far we have progressed with reeShop.
 ## SOAP/Download
 
 - [ ] Make ECS work properly
-- [ ] Get Downloads to work
+- [x] Get Downloads to work
 - [ ] Get IAS and CAS working
 - [ ] Get unofficial titles working
 
